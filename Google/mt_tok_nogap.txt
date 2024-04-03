@@ -1,0 +1,1045 @@
+what do you want to do today
+I need the documents necessary to extend my visa
+I want the documents necessary for the procedure to bring my family to Japan
+i want to pay my taxes
+I need proof of income
+I want to consult about tax payment
+I want tax payment certificate
+When submitting to the Immigration Bureau , both income proof and tax payment proof are required .
+Tax exempt persons need a tax exemption certificate .
+Do you have the documents you received from the Immigration Bureau ?
+Whose certificate do you need ?
+Please see this sample and fill out the application form .
+Can you talk on the phone with your family and friends who can speak Japanese now ?
+Please come to this window again with someone who understands Japanese .
+I will connect the videophone now .
+You need to go to the 〇〇 city tax office ( 〇〇 branch office ) .
+What is your relationship with this person ?
+A power of attorney is required if someone other than the applicant visits the counter .
+What year do you need the certificate ?
+Example : The 2017 income certificate proves the income in 2016 .
+May I issue a certificate for the newest fiscal year ?
+How many do you need ?
+Please show me your ID .
+You can not proceed without an ID .
+Where were you on January 1st of this year ?
+Please get your certificate at ○ ○ .
+If you lived outside of Japan on January 1st of this year , the certificate can not be issued .
+Were you working in the year XX ?
+Is there anything that shows the annual income of the person who needs proof ?
+( withholding slip , pay slip , etc . )
+Do you have other documents ?
+Please complete this form .
+Your income is written
+Municipal tax and prefectural tax are 0 yen .
+you are in arrears with your taxes .
+If you pay the unpaid tax now , you can issue a tax payment certificate immediately .
+Will you pay your taxes soon ?
+After paying the tax at the bank counter , please come back to this counter with the receipt .
+After paying the tax at the General Affairs Section , please come back to this window with the receipt .
+After paying the tax at the counter on floor ○ , please come back to this counter with the receipt .
+Please show me the receipt .
+Municipal tax and prefectural tax are 0 yen , so we can not issue a tax payment certificate .
+If the " unpaid amount " is the same as the " unpaid amount " , it will not be considered delinquent .
+Your municipal / prefectural tax is deducted from your salary by the company you work for and paid to Nagoya City .
+I paid this tax .
+Please pay the fee .
+The procedure is over .
+delegator
+address
+family name
+telephone number
+Seal of the person ( person who wants proof )
+The person ( person who wants proof )
+Please write your address , name and phone number .
+mandate
+Write the name of the proof you need and the number ( required ) .
+agent
+person coming to the window
+Whose certification do you need ?
+person at the window
+spouse ( wife or husband )
+parent
+Child
+Support application
+pension application
+Public housing ( income declaration )
+Financing ( borrowing funds )
+Receipt of child allowance
+Submit to the Immigration Bureau
+Application for school assistance
+Application for high school tuition support and reduction of private high school tuition fees
+Scholarship application
+Special support education enrollment encouragement / private kindergarten enrollment encouragement application
+Specific medical expenses application
+Applying for a visa
+bid
+Submission to public offices ( other than bidding )
+guarantor
+Liquor sales license application
+Please write the names of the family members you support .
+relationship ( relationship )
+Please write down your living situation .
+Being someone 's dependent .
+the person who supports you
+student
+school name
+Under medical treatment
+unemployed
+Please write the name of whose certification you need .
+Please write the address of the person who needs proof .
+Please write your date of birth .
+Please write your name
+Please write your address .
+Please write down your phone number .
+Application for tuition fee exemption for various schools such as universities
+Application for High - Cost Medical Care Expenses / Limit Application Certification
+I will give you a proof of 〇〇 .
+~Confirmation of health status~
+Instead of filling out my physical condition record , I decided to use the app " LAVITA " to manage my physical condition .
+Please see the usage below and register with the app at the regular times ( 7:30 , 11:30 , 17:30 , 21:00 ) .
+Health check sheet How to use LAVITA
+You can enter your physical condition record from your smartphone .
+Please refer to the URL below or scan the QR code to access the dedicated site .
+Enter the body temperature and SpO2 measured in the room , and answer each questionnaire ( 12 items ) .
+See the back side for detailed usage instructions .
+LAVITA login URL
+https://www.lavita.ne.jp/member
+* You can also open the URL by scanning this QR code with your smartphone 's camera .
+QR code
+Login ID
+Name + ID number@co.jp
+* Enter up to @co.jp .
+password
+toyokoin1
+* Never change your password .
+* All entries must be in lower case .
+Instructions for use are on the back .
+Health check sheet How to use LAVITA
+Tap to answer the  Health Observation  questionnaire to start the medical examination .
+Tap the pencil mark ✐ for body temperature and SpO2 , select 🔘 for manual input , enter the value and confirm
+Select and tap " Yes " or " No " for questions 1 to 12 , and if you have other symptoms or have something to say , enter it in the bottom " Other " free entry field . please give me .
+Finally , tap Register to complete the medical questionnaire registration .
+It recruits club activity leaders of elementary school !
+From September 2021 , all 262 municipal elementary schools in the 16 wards of the city will implement new after - school sports and cultural activities commissioned by the private sector .
+We are looking for instructors and those who will assist us in guiding and guiding our activities .
+This course is for those who have experience in sports or music ( chorus , musical instrument performance , etc . ) and are able to teach children at elementary schools from 3:00 to 6:00 pm from Tuesday to Friday ( training on guidance and safety management is available ) .
+Guidance , training and reporting will be conducted in Japanese .
+For applications , please refer to " Nagoya Club Activities Personnel Bank"<https://jinzaibank - nagoya.jp > Please register at
+New sports and cultural activities in Nagoya City
+Activities are basically three days from Tuesday to Friday .
+The target audience is 4th to 6th grade students at Nagoya municipal elementary schools .
+For each day of the week , children choose one of two events .
+Children can participate in up to three events in one year .
+active at school .
+( athletic field , gymnasium , school building )
+Guidance is provided by two or more instructors from the operator .
+Participation is voluntary , but please join us as part of improving the physical strength of children and nurturing rich humanity .
+Inquiries ( Japanese only ): Board of Education Lifelong Learning Club Activity Promotion Office ☎ 52 - 972 - 4090 FAX : 52 - 972 - 4207
+Throwing away cigarette litter will cause a fire .
+Nagoya City Naka Fire Station
+Tobacco is the number one cause of fires .
+It is prohibited to dispose of cigarette waste in places other than trash cans .
+Many of the causes of cigarette fires are caused by disposing of cigarette waste in places other than trash cans .
+measures
+Do not dispose of cigarette waste while walking or in your car , except in the trash can .
+Smoke in designated areas .
+Make good use of portable ashtrays .
+More and more people are smoking on the balconies of condominiums and apartments , causing fires .
+In addition , lit cigarettes are thrown from the balconies and stairs of condominiums and apartments , hitting cardboard boxes on the ground and causing fires .
+Please follow the proper method for disposing of tobacco waste .
+A fire may break out from an ashtray in which cigarette waste is thrown away .
+Place a non - combustible ashtray .
+The ashtray is always filled with water .
+The ashtray does not accumulate tobacco waste and is sometimes disposed of .
+Dispose of cigarette waste after extinguishing the fire , such as by pouring water over it .
+Make sure your cigarette is extinguished before you go to bed or go out .
+Nagoya City Naka Fire Department Prevention Division
+Please feel free to call the Prevention Section of the Nagoya City Fire Department .
+The Naka Fire Department website provides useful information for fire prevention and disaster prevention .
+Dispose of cigarette waste in places other than trash cans , and if a fire breaks out , the police will catch you .
+Even small fires can be punished under Japanese law .
+It is a crime to dispose of cigarette waste in places other than trash cans .
+It is a crime to cause a fire due to improper handling of cigarettes .
+Throwing a lit cigarette from your balcony is a crime .
+Guidance of " support system of single - parent family "
+For details , please ask the contact .
+Inquiries will be handled in Japanese .
+receive benefits and pensions
+Child Rearing Allowance / Nagoya City Single Parent Family Allowance / Aichi Prefecture Orphan Allowance
+If you are raising a child under the age of 18 by yourself due to divorce , unmarriage , death , etc . , you will be paid .
+* Including cases where the father or mother has a certain disability .
+* If the child is 18 years old , it is eligible from the birthday to March 31st .
+Inquiries : Ward Office Public Welfare and Child Affairs Section Public Welfare and Children Section Branch Resident Welfare Section Protection and Children Section
+child allowance
+This allowance is paid to those who are raising children up to the third year of junior high school .
+Inquiries : Ward Office Public Welfare and Child Affairs Section Public Welfare and Children Section Branch Resident Welfare Section Protection and Children Section
+Survivors Basic Pension
+This benefit is paid to a person who has been enrolled in the National Pension or Old - age Basic Pension for 25 years or more and whose spouse lives with a child under the age of 18 .
+* If the child is 18 years old , it is eligible from the birthday to March 31st .
+Inquiries : Ward Office Insurance and Pension Section Management Section Branch Office Ward Citizen Welfare Section Insurance Section
+reduce financial burden
+Subsidies for medical expenses for single - parent families
+Self - payment of medical expenses will be subsidized .
+Inquiries : Ward Office Insurance and Pension Section Insurance Section Branch Office Ward Citizens Welfare Section Insurance Section
+Reduction of national health insurance premiums
+Widows and single parents under the tax law are exempt from paying national health insurance premiums .
+* Conditions apply .
+Inquiries : Ward Office Insurance and Pension Section Insurance Section Branch Office Ward Citizens Welfare Section Insurance Section
+National health insurance fee exemption / deferral
+Widows or single parents under the tax law are exempted or deferred from paying national pension insurance premiums .
+There are conditions .
+Inquiries : Ward Office Insurance and Pension Section Management Section Branch Office Ward Citizen Welfare Section Insurance Section
+Reduction of water and sewerage charges
+Water and sewerage charges are reduced for households receiving Child Rearing Allowance .
+* Limited to cases where the recipient himself / herself has a contract .
+Inquiries : Ward Office Public Welfare and Child Affairs Section Public Welfare and Children Section Branch Resident Welfare Section Protection and Children Section
+JR commuter pass special discount
+Households receiving child - rearing allowances can receive a 30 % discount by submitting a certificate issued by a ward office or branch office and purchasing a JR commuter pass .
+* Student commuter passes are not eligible .
+Inquiries : Ward Office Public Welfare and Child Affairs Section Public Welfare and Children Section Branch Resident Welfare Section Protection and Children Section
+receive tax exemption
+Those who meet the conditions under the tax law can receive the application of the tax reduction system .
+In addition , those who meet the conditions may be exempted from or exempted from inhabitant tax ( city / prefectural tax ) .
+If you want to apply , please do not forget to declare it at the year - end tax adjustment or final tax return .
+Contact : City tax office of your ward
+get a loan
+Motherless Fatherless Widow Welfare Fund Loan
+You can borrow necessary expenses for studying at school , acquiring skills , finding a job , moving house , etc .
+Inquiries : Ward Office Public Welfare and Child Affairs Section Public Welfare and Children Section Branch Resident Welfare Section Protection and Children Section
+Find a job / skill up
+Advanced Vocational Training Promotion Benefit
+If you are studying at a training institution in order to acquire the qualifications necessary for employment or changing jobs , such as a nurse , you will be paid for a certain period of time as living expenses .
+Inquiries : Ward Office Public Welfare and Child Affairs Section Public Welfare and Children Section Branch Resident Welfare Section Protection and Children Section
+Advanced Vocational Training Promotion Fund Loan
+If you aim to acquire qualifications while receiving the above 10 benefits , you can borrow the money you need when you enter school and when you get a job .
+Inquiries : Ward Office Public Welfare and Child Affairs Section Public Welfare and Children Section Branch Resident Welfare Section Protection and Children Section
+Independence Support Education and Training Benefits
+Part of the tuition fee is subsidized when taking courses to acquire qualifications such as nursing care .
+* Conditions apply .
+Please consult us before starting the course .
+Inquiries : Ward Office Public Welfare and Child Affairs Section Public Welfare and Children Section Branch Resident Welfare Section Protection and Children Section
+High School Graduation Certificate Exam Pass Support Benefits
+Part of the tuition fee will be subsidized when taking a course in order to pass the high school graduation certificate exam .
+* Conditions apply .
+Please consult us before starting the course .
+Inquiries : Ward Office Public Welfare and Child Affairs Section Public Welfare and Children Section Branch Resident Welfare Section Protection and Children Section
+Employment support workshop
+We hold workshops to acquire skills and knowledge that are advantageous for employment and career change , such as personal computers and nursing care .
+Inquiries : Ward Office Public Welfare and Child Affairs Section Public Welfare and Children Section Branch Resident Welfare Section Protection and Children Section
+Application for the sale of tobacco
+When applying for the sale of tobacco , the criteria for permission will be relaxed .
+Contact : Tokai Local Finance Bureau Property Management Department Property Management Division TEL 951 - 2546
+job consultation
+Hello Work near you
+Some Hello Work offices have interpreters .
+Please see the homepage .
+Ministry of Health , Labor and Welfare website
+https://www.mhlw.go.jp/content/000592865.pdf
+Joinas . Nagoya
+We help single - parent families find jobs .
+TEL 252 - 8824
+find a place to live
+Recruitment of public housing
+Municipal housing and prefectural housing are recruiting for single - parent households in addition to general recruitment .
+Inquiries : Ward Office Public Welfare and Child Affairs Section Public Welfare and Children Section Branch Resident Welfare Section Protection and Children Section
+Mother and child life support facility
+This is a facility for children under the age of 18 and their mothers who need protection .
+Inquiries : Ward Office Public Welfare and Child Affairs Section Public Welfare and Children Section Branch Resident Welfare Section Protection and Children Section
+Private rental housing move - in consultation ( reservation required )
+We provide moving - in consultations for child - rearing households who wish to move into private rental housing .
+Inquiries : Sakae Citizen Service Corner Housing Counter  Nagoya City Housing Consultation Corner  3 - 5 - 12 Sakae , Naka - ku Sakae Mori no Underground Shopping Mall South 4th Street South Side TEL 242 - 4555
+receive child care support
+Short - term admission life support for children ( short stay )
+If it is temporarily difficult to raise a child at home due to social reasons such as parental illness , in principle , the child will be looked after at an infant home , children 's home , or foster home for up to one week .
+Inquiries : Ward Office Public Welfare and Child Affairs Section Public Welfare and Children Section Branch Resident Welfare Section Protection and Children Section
+Life support for single - parent families , etc .
+For single - parent households and widows who are having trouble with daily life
+Living assistance : A helper visits your home to help with housework and nursing care .
+Child - rearing support : Temporarily take care of your child at a designated child - care facility .
+Inquiries : Ward Office Public Welfare and Child Affairs Section Public Welfare and Children Section Branch Resident Welfare Section Protection and Children Section
+Diverse childcare
+If you need childcare for your child due to work or other reasons , you can use a nursery school .
+There are holiday daycare , extended daycare , nighttime daycare , sick child daycare , and post - sick child daycare .
+Inquiries : Ward Office Public Welfare and Child Affairs Section Public Welfare and Children Section Branch Resident Welfare Section Protection and Children Section
+Custody childcare in kindergarten
+Temporary custody childcare will be provided at the kindergarten or certified child center that the child attends .
+Contact : Each kindergarten certified child institution
+temporary storage
+When childcare at home becomes temporarily difficult due to unforeseen circumstances , or in order to reduce the mental and physical burden on guardians due to childcare fatigue , we temporarily take care of children .
+contact information :
+temporary storage
+Ward Office Public Welfare and Children Section Public Welfare and Children Section
+Branch Resident Welfare Division Protection and Child Section
+Carefree parenting support
+headquarters
+TEL 962 - 5103
+Child care support base
+Each child care support base
+Secure your child 's education expenses
+Support for attending school , etc .
+Depending on the type of school your child attends , you will receive financial support for school expenses .
+Inquiries : Kindergarten / school your child attends
+Scholarships , etc . ( Japan Student Services Organization )
+There are grant - type scholarships and tuition exemptions for those who attend universities and junior colleges .
+Contact : School your child attends
+Japan Student Services Organization website https://www.jasso.go.jp/
+Ensuring opportunities for children to learn and have social experiences
+Learning support for junior high school students
+We hold study sessions tailored to each student 's learning level with the aim of developing good study habits and preparing for high school .
+Contact : Child Future Planning Office , Children and Youth Bureau TEL972 - 3199
+Creating places for children in single - parent families
+For children from the 5th grade of elementary school to the 3rd grade of junior high school , we have set up a place where you can casually stop by , chat , do your homework , spend time slowly , and participate in events .
+Contact : Child Future Planning Office , Children and Youth Bureau TEL972 - 3199
+Cultural and sports exchange
+We hold events where you can experience the world of professionals , such as sports and music , so that you can interact with parents and children and between single parents , and provide opportunities for future career choices .
+Contact : Child Future Planning Office , Children and Youth Bureau TEL972 - 2522
+Single parent family rest home
+Fees are subsidized when using lodging facilities such as Kokuminshukusha Okuhamanako and day - trip facilities such as Legoland .
+Inquiries : Ward Office Public Welfare and Child Affairs Section Public Welfare and Children Section Branch Resident Welfare Section Protection and Children Section
+Discounted use of municipal facilities
+City facilities such as the Higashiyama Zoo and Botanical Gardens and the City Science Museum can be used free of charge .
+Inquiries : Ward Office Public Welfare and Child Affairs Section Public Welfare and Children Section Branch Resident Welfare Section Protection and Children Section
+Due to the approach of typhoon # , the operation plan of city buses and subways on _ _ _ _ _ ( Month _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ hours ) will be released .
+Due to the approach of Typhoon ● , the following city buses and subways will operate .
+All services will be suspended from around ● : ● ( the first train ) .
+At around ● : ● ( the first train ) , the train will run as follows .
+Trains on other lines and sections may be operated with fewer trains , delayed or canceled .
+Service between Hoshigaoka ( H18 ) and Fujigaoka ( H22 ) will be suspended , and trains will be reduced between Takahata ( H1 ) and Hoshigaoka ( H18 ) .
+will be suspended .
+Service will be suspended between Kamiotai ( T01 ) and Shonai Ryokuchi Park ( T02 ) , and will operate between Shonai Ryokuchi Park ( T02 ) and Akaike ( T20 ) .
+Stop direct service with Meitetsu .
+Reduce the number of trains and operate .
+Regarding the operation of city buses and subways due to the approach of Typhoon No .
+Due to the approach of Typhoon # , the following city buses and subways may operate .
+It may be delayed or canceled .
+Service may be suspended between Hoshigaoka ( 2006 ) and Fujigaoka ( 2010 ) .
+Service may be suspended between Kamiotai ( T01 ) and Shonai Ryokuchi Koen ( T02 ) .
+Direct service with Meitetsu may be canceled .
+We have issued an operation plan due to the approach of Typhoon ● .
+I 'm about △ △ minutes late .
+Operation is scheduled to resume around ◇ ◇ .
+Refunds are made at the station .
+You can take the city bus , Meitetsu , and JR instead of the subway .
+Please ask at the station for details .
+Is that sound okay ?
+What is life noise ?
+Household noise refers to sounds that occur in household life , such as the sound of the TV , the sound of doors opening and closing , and the sound of the piano .
+Life noise is a sound that occurs in our daily life , so we ca n't say that we do n't emit it at all .
+Sound is perceived differently by different people .
+Sounds that can not be avoided or " sounds that are pleasant to me " may be perceived as " noisy sounds " or " unpleasant sounds " by those around me .
+It is important to pay attention to the sounds you make on a daily basis , to avoid making unnecessary sounds , and to devise ways to reduce the sounds .
+If you have a good relationship with your neighbors , such as greeting them on a daily basis , noise from daily life may not be a problem .
+Live a life that is considerate of your surroundings
+Sound from audio equipment ( stereo , TV , piano , etc . )
+Pay attention to the time of use , such as avoiding early morning and late night .
+Close the windows , adjust the volume , use headphones , etc . to prevent the sound from leaking outside .
+Use a soundproof sash to prevent sound from leaking out .
+Sounds of home appliances and household equipment ( air conditioners , vacuum cleaners , etc . )
+When installing an outdoor unit , try to choose a location that is as far away from neighbors as possible , and if necessary , soundproof it with a block wall .
+When buying home appliances , try to choose ones that make less noise .
+Avoid using it early in the morning or late at night .
+Sounds in the early morning and at night ( idling of cars and motorcycles , etc . )
+Avoid idling or revving your car or motorcycle early in the morning or late at night .
+Avoid cleaning or doing laundry early in the morning or late at night .
+Other sounds ( sounds of opening and closing doors and windows , etc . )
+Be careful not to make a loud noise when opening and closing doors and windows .
+Walk quietly indoors .
+It sounds great downstairs .
+Publisher : Nagoya City Environment Bureau Regional Environmental Measures Department Air Quality Measures Division
+Phone : 972 - 2674
+Fax : 972 - 4155
+Parent
+Nagoya City Board of Education
+Notice of school attendance support continuation procedure
+( For September 2020 to August 2021 )
+If you are currently receiving school attendance assistance , the period of receipt is until August 2020 .
+If you would like to continue to receive assistance from September 2020 to August 2021 , please submit the separate “ Application for Continuation of School Attendance Assistance ” to the school where your child attends school .
+Submission Deadline
+Submit to school by Wednesday , June 10
+If you can not submit by June 10 ( Wednesday ) , please notify the school that you will submit it at a later date .
+Those who have submitted complete documents to the school by September 24th ( Thursday ) will be allowed to continue their studies .
+If there is a delay or incompleteness in the submission of documents , continuation certification will not be granted on September 1st .
+Please check before submitting .
+【 Notes 】
+If you have two or more children who would like assistance , please apply for each .
+The certification will be based on the contents of the application .
+Please be sure to contact the school as soon as possible if there is a change in your household status after applying ( change of guardian , remarriage , moving , living with grandparents , etc . ) .
+If , at a later date , it is discovered that the submitted documents contain corrections or errors and do not satisfy the certification requirements , the certification may be revoked .
+If there are any doubts about the contents of the application , we may confirm the household situation , income , etc . ex officio .
+Payment details ( scheduled as of April 2020 )
+September to December 2020
+Payment around October 26
+January to March 2021
+Payment around January 25
+April to August 2021
+Payment around June 1
+School supplies , etc .
+1st grade elementary school
+4,320 yen
+3,240 yen
+[ Please see the new school year column ]
+2nd to 6th grade elementary school
+5,040 yen
+3,780 yen
+6,680 yen
+Junior high school 1st year
+8,200 yen
+6,150 yen
+10,690 yen
+2nd and 3rd year junior high school
+9,000 yen
+6,750 yen
+11,560 yen
+Enrollment reserve
+6th grade
+60,000 yen
+Paid around February 25
+Graduation album fee , etc .
+Elementary 6 / Junior 3
+Provided to students who receive school assistance as of March 1 and purchase graduation albums , etc .
+actual cost
+School lunch fee
+all grades
+Payment from the school principal to the organization that implements the school lunch ( It will not be paid directly to the guardian . )
+School lunches at junior high schools parents the actual amount of food and drink
+Payment for April is around 6/1 , March is around 3/31 , other months are paid around 25th of the following month .
+actual cost
+Outdoor activity fee
+5th grade , 2nd grade
+Provided to children who received school assistance at the time of implementation and participated in outdoor activities
+Payment will be made after implementation ( usually 2 - 3 months later ) .
+actual cost
+School trip expenses
+Elementary 6 / Junior 3
+Provided to children who received school assistance at the time of implementation and participated in school excursions
+Payment will be made after implementation ( usually 2 - 3 months later ) .
+actual cost
+School transportation fee
+Due to special educational considerations , actual expenses will be paid to children and students who use public transportation to commute to schools with a commuting distance of 4 km or more for elementary school or 6 km or more for junior high school ( commuting to special needs classes regardless of distance . )
+Payment months are July , October , and January
+Medical expenses for school illness
+The school principal will pay medical expenses for school illnesses treated under the direction of the school ( they will not be paid directly to parents ) .
+School Life Management Guidance Table Document Fee
+all grades
+Document fees for school life management guidance charts prepared by doctors regarding food allergies and heart / kidney - related diseases are paid .
+Receipt from medical institution required
+April and May will be paid around June 25th , other months will be paid around the 25th of the following month
+Actual cost ( maximum amount 3,000 yen )
+* For households receiving public assistance , only school excursion expenses and medical expenses for school illnesses are subsidized items for tuition assistance .
+Other expenses are covered by public assistance and are provided by the Social Welfare Office ( Ward Office Public Welfare and Child Affairs Division ) .
+* School diseases include trachoma , conjunctivitis , otitis media , chronic sinusitis , tooth decay , adenoids , parasitic diseases , and certain skin diseases .
+Before undergoing treatment , be sure to receive a  treatment statement  from the school in advance and bring it to the medical institution .
+In addition , if you have a child medical certificate or a single - parent family medical certificate , that will be given priority .
+* Payment timing may vary slightly .
+About those who are eligible for school attendance assistance and the required documents
+If you have signed your name and affixed your seal in the  Consent  column of the Application for Continuation of School Assistance , the Board of Education will confirm the necessary information for continuation approval . is not required .
+However , if the necessary information can not be obtained as a result of checking with the board of education , such as when you have moved to Nagoya City after January 2 , 2020 , or when you have not reported your income , please contact us separately . Submit the required documents .
+If there is a person in your household who lives on a different address due to a job away from home , etc . , the Board of Education will not be able to obtain the necessary information , so we will ask you to submit the necessary documents .
+In addition , if you do not sign your name and affix your seal in the  Consent  column , please attach the required documents for each of the following categories .
+Application item
+Attached documents ( for example , if you do not sign your name or seal in the “ Consent column ” )
+Place of certificate issuance
+1
+Persons requiring protection as stipulated in the Public Assistance Law
+unnecessary
+2
+Those whose public assistance has been suspended or abolished since April 2 , 2019
+Not required ( principle )
+* This does not apply if the application was abolished due to a change in household ( remarriage , etc . ) .
+3
+Those who received Child Rearing Allowance
+Child Rearing Allowance Certificate
+* A copy of the page stamped by the head of the social welfare office is required .
+* It is necessary that the receipt period is [ November 2019 or later ] .
+* Child Allowance , Single Parent Family Allowance , Aichi Prefecture Orphan Allowance , and Special Child Rearing Allowance are not applicable .
+Ward Office Public Welfare and Children Division
+Branch Resident Welfare Division
+( Social Welfare Office )
+Four
+Those with financial difficulties
+Municipal tax prefectural tax certificate [ 2nd year of Reiwa ( income for 2019 ) ] ( copy acceptable )
+* Necessary for all households ( excluding those who are dependents under the Income Tax Law and those who are high school students or younger )
+Municipal tax office / branch office , ward office / branch tax office
+You can apply for this item if the total income of all households in 2019 is less than the income standard amount below .
+household size
+two person household
+3 person household
+4 person household
+5 person household
+6 person household
+Income standard amount
+2,469,000 yen
+2,769,000 yen
+3,146,000 yen
+3,726,000 yen
+4,097,000 yen
+( Estimated income )
+( 3.76 million yen )
+( 4.14 million yen )
+( 4.6 million yen )
+( 5.33 million yen )
+( 5.79 million yen )
+For households with 7 or more people , 489,000 yen is added to the standard income for households with 6 people for each additional person .
+The income standard amount in the upper row is the certification standard .
+The amount in the bottom ( ) is a guideline for the income of salaried workers .
+If your income has drastically decreased due to unavoidable circumstances such as injury or illness of those who maintain your livelihood , unemployment ( dismissal , bankruptcy ) , etc . , or if your income has drastically decreased due to the impact of the coronavirus infection , your income exceeds the standard amount . may also be considered .
+Please consult your school .
+( Retirement age and voluntary retirement are not applicable )
+Note 1 : A “ household ” for tuition assistance refers to all people living in the same house .
+Grandparents , etc . who live in the same house are considered to be in the same household , even if they have different livelihoods and residence records .
+The same household includes those who do not live in the same house due to work away from home , etc . , but maintain the livelihood of the household .
+Please list all members of the same household in the household status column of the application form .
+Note 2 : All members of the household must apply to the same item ( except application item 3 ) .
+others
+Approval and payment from April to August 2021 are based on the assumption that the FY2021 budget will be passed .
+Please note that depending on the situation , it may not be authorized or paid as described in this guide .
+The period of support for children graduating from junior high school this year is until March 2021 .
+If there is a non - payment of the school fees that are covered by the school attendance assistance , the school may pay the fees even if an application for bank transfer has been made .
+Based on the consent , the Board of Education inspected and confirmed the information ( basic resident register information , public assistance information , child rearing allowance information , income information ) necessary for the examination of eligibility for attendance at school assistance , and as a result , there were doubts about the application contents . In some cases , we may check the circumstances .
+* If you have any questions , please contact the Academic Affairs Division of the Nagoya City Board of Education ( TEL 972 - 3217 FAX 972 - 4175 ) or the school you attend .
+2021 month day
+○ ○ ○ ○ city mayor
+* Los Angeles , Sydney , Turin , Mexico , Reims , Nanjing
+Greetings
+I would like to express my heartfelt gratitude to you and everyone involved for your support in holding the  Sister and Friendship Cities Children 's Drawing Exhibition  sponsored by the Nagoya City Board of Education .
+Last year , we held the 42nd Sister and Friendship Cities Children 's Calligraphy and Painting Exhibition at the Nagoya City Museum from November 18th to 23rd , 2021 , and it was a great success .
+Therefore , although it is very late , I would like to post to your city the works selected from among the works exhibited in this exhibition by the children of Nagoya City and the works sent by Nagoya 's sister and friendship cities . We will send you a picture postcard as a souvenir , so we would appreciate it if you could use it .
+In addition , this year as well , as part of the sister and friendship city project , the 43rd Sister and Friendship Cities Children 's Drawing Exhibition will be held from November 17 to 21 , 2021 . We are planning an exhibition of the submitted works .
+I am very sorry to ask you in the midst of various issues such as measures to prevent the spread of coronavirus infection , but if possible , I would like you to send the works of children in your city by September 1 , 2021 . Thank you for your consideration .
+We believe that the wide public appreciation of children 's works sent by sister and friendship cities serves the purpose of promoting mutual understanding and deepening friendship between the two cities . I think .
+We look forward to your continued cooperation in the future .
+Very truly yours
+Nagoya City Board of Education
+Superintendent of Education ○ ○ ○ ○
+※ signature
+2021 month day
+○ ○ ○ ○ city person in charge
+* Los Angeles , Sydney , Turin , Mexico , Reims , Nanjing
+Greetings
+I would like to express my heartfelt gratitude to you and everyone else involved for your cooperation and support in collecting and sending works for the " Sister / Friendship Cities Children 's Paintings and Paintings Exhibition " sponsored by the Nagoya City Board of Education . represent .
+Last year , from November 18th to 23rd , 2020 , the 42nd Sister and Friendship Cities Children 's Paintings Exhibition was held at the Nagoya City Museum .
+The contents of the exhibition are 3,098 paintings , 33 three - dimensional works , and 2,012 calligraphy , selected from 374 elementary and junior high schools in Nagoya City , along with works by children from sister and friendship cities . did .
+Visitors reached 25,078 and were able to finish in prosperity .
+The unique works of children from sister and friendship cities are different from the works drawn by children from Nagoya City in terms of color scheme and atmosphere , so you can appreciate them with interest while thinking about each sister and friendship city . Many parents and children were seen .
+Therefore , although it is very late , I would like to post to your city the works selected from among the works exhibited in this exhibition by the children of Nagoya City and the works sent by Nagoya 's sister and friendship cities . We will send you a picture postcard as a souvenir , so we would appreciate it if you could use it .
+In addition , this year as well , as part of the sister and friendship city project , the 43rd Sister and Friendship Cities Children 's Drawing Exhibition will be held from November 17 to 21 , 2021 . We are planning an exhibition of the submitted works .
+Therefore , I am very sorry to ask you in the midst of various issues such as measures to prevent the spread of coronavirus infection . , If possible , please send it by September 1 , 2021 .
+At that time , please also include a list with the author name , age , and title of each work .
+We will send you an email with a form created in Excel , so please return it as an attached email after filling it out .
+Please note that the works sent to us will be used as materials for school education after the exhibition is over , so we will not return them , just like other sister and friendship cities .
+At this time next year , we will be sending works by children from Nagoya to your city .
+We believe that the wide public appreciation of children 's works sent by sister and friendship cities serves the purpose of promoting mutual understanding and deepening friendship between the two cities . I think .
+We look forward to your continued cooperation in the future .
+Very truly yours
+Nagoya City Board of Education
+Guidance Office Director ○ ○ ○ ○
+( signature )
+Announcement of 2020 Special Support Education Enrollment Incentives
+For children with disabilities who are enrolled in classes for special needs at elementary and junior high schools in Nagoya City , the " Special Support Education Enrollment Scholarship " system , which provides expenses for school supplies , school lunches , etc . , according to household income , has been introduced . You can use it .
+Target audience
+Those who fall under any of the following 1 to 3
+Children in special needs classes
+Children and students in commuter classrooms ( those other than those who fall under 3 .
+Only transportation expenses ( commuting expenses ) will be paid . )
+* Also applies to classes at prefectural special support schools .
+Students in regular classes ( including commuter classrooms ) who fall under the degree of disability stipulated in Article 22 - 3 of the Order for Enforcement of the School Education Law ( See the reverse side for details . )
+Subsidized expenses
+Category
+primary school
+junior high school
+School lunch fee
+Actual cost x 1/2
+Actual cost x 1/2
+Transportation expenses ( commuting expenses )
+Actual cost ( Note 1 )
+Actual cost ( Note 1 )
+Exchange study transportation fee
+Actual cost ( Note 1 )
+Actual cost ( Note 1 )
+School trip expenses
+Actual cost × 1/2 ( upper limit 10,790 yen )
+Actual cost × 1/2 ( maximum 28,860 yen )
+Off - campus activity fee ( with accommodation )
+Actual cost × 1/2 ( maximum 3,422 yen )
+Actual cost × 1/2 ( maximum 3,540 yen )
+Off - campus activity fee ( without accommodation )
+800 yen
+1,155 yen
+Expenses for purchasing school supplies / commuting supplies
+Actual cost × 1/2 ( Note 2 ) ( maximum 5,820 yen )
+Actual cost × 1/2 ( Note 2 ) ( maximum 11,370 yen )
+Purchase fee for school supplies and commuting supplies for new students ( 1st grade only )
+Actual cost × 1/2 ( Note 2 ) ( upper limit 25,555 yen ) ( Note 3 )
+Actual cost × 1/2 ( Note 2 ) ( upper limit 28,990 yen ) ( Note 3 )
+( Note 1 ) ②③ will be “ Actual cost x 1/2 ” if the certification stage is Stage III .
+( Note 2 ) ⑦ and ⑧ will be paid according to the purchase results , and a receipt ( address , product name , amount ) will be required .
+( ⑦ is for items purchased from February 2020 to January 2021 , and ⑧ is for items purchased by April 2020 .
+However , due to the temporary closure due to the new coronavirus infection , if the school supplies and school supplies necessary for entering ⑧ are purchased after April , receipts until the end of June will be covered . )
+( Note 3 ) The upper limit has been increased from the previous fiscal year .
+Accreditation Stage Calculation Criteria and Subsidized Expenses
+The certification stage is determined by the ratio of household income and public assistance standard demand amount .
+The accreditation level is determined each fiscal year .
+Certification stage
+Calculation standard
+Subsidized expenses
+Ⅰ
+Income amount is less than 1.5 times demand amount
+Ⅱ
+The amount of income is 1.5 times or more and less than 2.5 times the amount of demand
+① ～ ⑧
+Ⅲ
+Income amount is 2.5 times or more of demand amount
+② 、 ③
+Guideline for Stages I and II ( income amount less than 2.5 times the standard demand amount for public assistance )
+Your income is approximately :
+Even if the number of people in a household is the same , the amount of income varies depending on factors such as age composition .
+Household size
+two person household
+3 person household
+4 person household
+5 person household
+6 person household
+household income
+4,634,000 yen
+6,044,000 yen
+7,119,000 yen
+7,960,000 yen
+9,219,000 yen
+( annual income of salaried workers )
+( 7,292,000 yen )
+( 9,055,000 yen )
+( 10,375,000 yen )
+( 11,364,000 yen )
+( 12,845,000 yen )
+In addition to the " School Enrollment Scholarship for Special Needs Education " system , there is a " School Assistance " system that provides assistance with the cost of school lunches and school supplies for those who are in financial difficulty .
+It is not possible to receive the same payment items for school attendance assistance and special support education enrollment incentives at the same time .
+We recommend that those who are eligible for school attendance assistance choose the school enrollment assistance , as the school attendance assistance is more generous .
+However , ( 3 ) exchange study transportation expenses are paid only by the special support education enrollment incentive fee , so an application is required .
+Among children and students in regular classes ( including commuter classrooms ) , those who fall under the degree of disability prescribed in Article 22 - 3 of the Order for Enforcement of the School Education Act ( eligible persons 3 on the front ) Criteria for
+Division
+Degree of disability ( Criteria under Article 22 - 3 of the Enforcement Order of the School Education Act )
+Judgment method
+Required documents
+visually impaired
+Those with corrected visual acuity of less than 0.3 in both eyes or those with severe visual impairment other than visual acuity , to the extent that normal visual recognition of letters , figures , etc . is impossible or extremely difficult * even with the use of a magnifying glass . of
+* It takes a considerable amount of time to visually recognize normal letters and figures , and special support and consideration is required in teaching all subjects , and special guidance is systematic to improve and overcome disabilities . necessary on an ongoing basis
+Those with a physical disability certificate grade 2 or higher , or those with a physical disability certificate grade 3 to 6 that have been diagnosed by a doctor as meeting the criteria on the left .
+Copy of physical disability certificate
+Doctor 's certificate ( based on the format specified by Nagoya City )
+( ② is required only for physical disability certificate grades 3 to 6 )
+hearing impaired
+Those who have a hearing level of approximately 60 decibels or more in both ears and are unable or extremely difficult to understand normal speech even with the use of hearing aids or cochlear implants .
+People with intellectual disabilities
+Intellectual developmental delay , difficulty communicating with others , and frequent need for assistance with activities of daily living
+Those whose degree of intellectual developmental delay does not reach level 1 , and whose adaptation to social life is extremely difficult .
+Nursing judgment of welfare notebook is A
+Copy of welfare booklet
+handicapped
+Physical disabilities that make it impossible or difficult to perform activities such as walking * , eating , putting on and taking off clothes , excreting , and basic activities for learning activities such as drawing , even with the use of assistive devices .
+For those whose physical disability does not reach level 1 , constant medical observation and guidance ( constant medical observation is required within a specific period , and each movement and instruction of daily life from waking up to going to bed ) to the extent that it requires guidance and training on movement
+* Walking does not include movement in a wheelchair .
+Those with a physical disability certificate grade 2 or higher , or those with a physical disability certificate grade 3 to 6 that have been diagnosed by a doctor as meeting the criteria on the left .
+Copy of physical disability certificate
+Doctor 's certificate ( based on the format specified by Nagoya City )
+( ② is required only for physical disability certificate grades 3 to 6 )
+sick person
+Chronic respiratory disease , kidney disease , neurological disease , malignant neoplasm or other disease condition that requires continuous medical care*1 or lifestyle restrictions*2
+A state of physical weakness that continues to require lifestyle restrictions*2
+* 1 Diagnosis and treatment centered on doctors .
+It does not include routine drug intake or self - injection .
+* 2 A disease that significantly limits exercise , daily activities ( walking , bathing , reading , learning , etc . ) and the quality and quantity of meals .
+Diagnosed by a doctor as meeting the criteria on the left
+Doctor 's certificate ( based on the format specified by Nagoya City )
+For those with multiple disabilities , the one with the most severe disability will be considered .
+【 procedure 】
+We will inform you about the application for special needs classes and regular guidance classes around the beginning of June .
+For other children and students , please contact the school if you wish to receive the allowance .
+Also , if you need a doctor 's certificate , please receive the necessary documents at school , bring them to a medical institution , and request a medical certificate .
+For details on the system , please contact the school you attend or the Academic Affairs Division of the Nagoya City Board of Education ( TEL 972 - 3217 ) .
+Nagoya City Board of Education R2 . 5
+year month day
+Parent
+Nagoya Municipal ○ ○ Elementary School Principal
+Nagoya City Board of Education
+Submission of school lunch application form
+Thank you for your continued understanding and cooperation in the education of our school .
+Regarding school lunches , the City of Nagoya bears the cost of facility maintenance , personnel expenses for cooks , etc . , and parents / guardians bear the cost of purchasing school lunch materials as part of the school lunch expenses . It is a system to manage school lunches by the burden of both parents and guardians .
+As a general rule , the school lunch fee is 4,400 yen per month ( excluding August . There is a possibility of revision in the future . ) , so please pay by the due date .
+In order to clarify the relationship between the school and parents in the provision of school lunches , please submit the application form below .
+Kiritori
+School lunch application form
+Principal of Nagoya Municipal ○ ○ Elementary School
+Nagoya City Board of Education
+Apply for school lunch and pay the school lunch fee by the specified date .
+year month day
+address :
+Guardian Name : ( Signature )
+remove mark
+【 relationship : 】
+Child 's name :
+Date of Birth : Year Month Day
+For single - parent families
+Problem consultation form
+Do you have any problems with your work , child - rearing , life , etc . ?
+Ward offices and branch offices have a variety of counselors to help you think about and resolve your problems .
+It does n't matter how trivial it is .
+First of all , do you want to talk to the counselor ?
+If necessary , we can also cooperate with other consultation desks .
+Please let us know what you are having trouble with and what you would like to discuss .
+Please submit this consultation form to the ward office / branch office together with the enclosed current situation report .
+In addition , the contents written in the consultation form will not be used as materials for determining the payment of child rearing allowance .
+Strictly confidential .
+Do you have any problems or would like to discuss any of the following ?
+Please put a circle in ( ) for all applicable items ( multiple answers allowed ) .
+If you do not have any particular problems , please circle " 2 Do not wish " in Q4 .
+Things related to work and income
+i want to find a job
+I think I have to work , but I do n't have the energy to look for it
+I am currently working but would like to work under better conditions
+Concerned about interpersonal relationships at work
+would like to qualify
+Other ( please specify )
+Things related to health and life
+Poor physical condition
+sometimes mentally unstable
+I ca n't afford to do household chores
+have trouble with family
+I 'm having trouble with my housing
+I want to review my household budget
+I 'm having trouble getting child support
+I am having trouble repaying my debt
+Difficulties with language and communication
+Other ( please specify )
+Children
+Anxiety about raising children
+Feeling burdened by child rearing
+I feel uneasy because my child has a chronic disease or disability
+I ca n't keep up with my studies at school
+do n't want to go to school
+tend to withdraw
+There is not much parent - child conversation , and the child 's feelings are not understood
+I feel anxious about my child 's future
+I 'm having trouble with the cost of going on to higher education
+Other ( please specify )
+At the ward office / branch office , we are thinking about what we can do together to solve your problems and worries .
+Would you like to consult with a counselor ?
+hope
+2 No ( Reason : )
+* If you have already consulted with another organization , please tell us where to consult .
+( Contact : )
+≪ Please enter your contact information ≫
+Furigana
+name
+telephone number
+Time when it is easy to answer the phone , such as work lunch break
+( Weekdays 10:00 am to 4:00 pm )
+Monday , Tuesday , Wednesday , Thursday , Friday , anytime
+: to :
+* Please note that the ward office or branch office may contact you depending on the content of your answers , regardless of whether or not you wish to do so .
+* Depending on the content of your inquiry , we may ask you to view information related to Child Rearing Allowance or refer to related organizations .
+Ward Office / Branch Office
+* Please do not write anything
+( Certificate number : )
+Child Rearing Allowance System ( Information )
+Child Rearing Allowance is provided on the condition that the person receiving the allowance ( hereinafter referred to as " recipient " ) and the child eligible for the allowance ( hereinafter referred to as " eligible child " ) meet the recipient qualifications . Certified .
+For those who are certified , the amount ( monthly amount ) in the table below will be paid six times a year ( May 11th , July 10th , September 11th , November 11th , January 8th , March 11th ) will be transferred .
+Target children
+1st person
+second person
+3rd person onwards
+paid in full
+43,160 yen
+10,190 yen
+6,110 yen
+partial payment
+43,150 yen ～ 10,180 yen
+10,180 yen to 5,100 yen
+6,100 yen to 3,060 yen
+* The amount is as of April 1 , 2020 .
+About required notifications
+If any of the following situations apply , please go to the Public Welfare and Child Affairs Section of the Ward Office .
+Please note that if the necessary procedures are delayed and the allowance is overpaid , you will be asked to return the allowance that has already been paid .
+When you no longer meet the eligibility
+beneficiary
+Married * < < in the case of a father or mother > >
+* Includes de facto marital relationship ( common - law relationship ) and cohabitation with the opposite sex .
+Became eligible for public pension
+( After December 2014 , depending on the amount of public pension , you may be able to receive Child Rearing Allowance . )
+No longer custody ( raise ) the target child ( no longer takes care of it )
+( For fathers only ) who no longer live in the same household as the target child
+It became possible to receive bereaved family compensation paid due to the death of the target child 's father or mother
+No longer have an address in Japan
+I no longer have a reason to receive benefits
+The father or mother no longer abandons the subject child
+the father or mother 's detention ended
+Such
+Target children
+Entered a child welfare facility , juvenile training school , etc .
+placed in foster care
+Became eligible to receive a public pension paid upon the death of the father or mother
+Eligible for the addition of the amount of the public pension paid to the father or mother
+( After December 2014 , depending on the amount of public pension , you may be able to receive Child Rearing Allowance . )
+You can now receive bereaved family compensation paid for the death of your father or mother
+The fiscal year ( March 31st ) that belongs to the day you turned 18 has ended .
+If the eligible period has been extended due to the state of disability , reaching the age of 20 or no longer recognized as a disability
+got married
+No longer have an address in Japan
+Notification of Loss of Recipient Qualification , Notification of Amount Revision , or Notification of Receipt Status of Public Pension Benefits , etc .
+When confirming the continuation of the eligibility for the allowance ( every August )
+status report
+When five years have passed since receiving the allowance , and every August thereafter
+When 7 years have passed since meeting the payment requirements for divorce , etc . , and every August thereafter
+Partial payment suspension application exemption notification form
+When there is a change in circumstances ( name , address , household composition , change in amount of public pension , etc . )
+Notification of Change / Notification of Receipt Status of Public Pension Benefits , etc .
+《 Note 》 After December 1 , 2014 , even if you are eligible for a pension , you may be able to receive child - rearing allowance depending on your pension amount .
+( See also the back side )
+About the received notice
+The contents of the notification you received are as follows .
+Certification notification
+As a result of reviewing your request , we have determined that you are eligible to receive benefits .
+Notice of disqualification
+you are no longer eligible to receive benefits
+Amount revision notification ( reduction )
+The allowance has been reduced due to the decrease in the number of eligible children under your custody ( raising )
+Amount revision notification ( increase )
+Increased benefits due to an increase in the number of eligible children under your custody ( raising )
+injunction notice
+Temporary suspension of allowance payments due to grounds for suspension ( notification of current status , etc . )
+Injunction Lifting Notice
+The suspension of payment of allowances has been lifted because the grounds for suspension have been resolved .
+Notification of suspension of payment
+The payment of all or part of the allowance has been suspended because the income of the previous year of you or a dependent who lives with you or has the same livelihood as you was above the maximum amount .
+Payment Suspension Cancellation Notice
+Cancellation of allowance payment suspension due to changes in household composition , income correction , etc .
+Notification of screening results
+Decisions made about your allowance payments from November to October of the following year
+About income limit
+The previous year 's income ( the year before last for applications from January to September ) of the recipient or the person responsible for supporting the child ( * If the recipient is the mother of the target child , the recipient 's father will In the case of , 80 % of the child support received by the recipient or the eligible child will be added to the income from the mother of the eligible child . If the amount exceeds the limit , payment will be suspended .
+Category
+Recipient himself / herself
+paid in full
+partial payment
+Caregivers of orphans , etc .
+spouse
+support obligor
+Credit limit
+Number of dependent relatives
+0 people
+1 person
+two people
+3 people
+Addition for each additional person
+Addition by elderly support
+Addition for specific dependents , etc .
+Less than 490,000 yen
+Less than 870,000 yen
+Less than 1.25 million yen
+Less than 1.63 million yen
+380,000 yen
+100,000 yen
+150,000 yen
+Less than 1.92 million yen
+Less than 2.3 million yen
+Less than 2.68 million yen
+Less than 3.06 million yen
+380,000 yen
+100,000 yen
+150,000 yen
+Less than 2.36 million yen
+Less than 2.74 million yen
+Less than 3.12 million yen
+Less than 3.5 million yen
+380,000 yen
+60,000 yen
+deduction amount
+Fixed amount deduction ( applies to everyone )
+Special deduction for persons with disabilities
+Special widow deduction*1
+Persons with disabilities , widows*1 , widowers*2 , working student deductions
+Special exemption for spouse
+Accidental damage , medical expenses , small business mutual aid , etc . premium deduction
+Special deduction for long - term and short - term capital gains
+80,000 yen
+400,000 yen
+350,000 yen
+270,000 yen
+deduction amount
+deduction amount
+deduction amount
+80,000 yen
+400,000 yen
+350,000 yen
+270,000 yen
+deduction amount
+deduction amount
+deduction amount
+80,000 yen
+400,000 yen
+350,000 yen
+270,000 yen
+deduction amount
+deduction amount
+deduction amount
+Widow / widower deductions are applied for single parents who are not eligible for widow / widow deductions ( limited to caregivers and persons obliged to support them ) .
+* 1 If the recipient is a mother , the special widow deduction and widow deduction are not applied .
+* 2 If the recipient is the father , the widower deduction is not applied .
+< Example > Annual income of 2 million yen , child support received by the recipient of 400,000 yen , child support received by the target child of 100,000 yen , 3 children , 3 dependent relatives under the tax law , and no supporters , etc . case
+Full payment is less than 1.63 million yen , partial payment is less than 3.06 million yen , and full payment is suspended for 3.06 million yen or more .
+80 % of child support will be added to income , so 2 million yen + ( 400,000 yen + 100,000 yen ) x 0.8 = 2.4 million yen .
+If you subtract the deduction amount from this , it will be 2.4 million yen - 80,000 yen ( fixed amount deduction ) = 2.32 million yen , which corresponds to " partial payment " .
+The monthly allowance for the first person is 43,150 yen - ( 2,320,000 yen ( income ) - 1,630,000 yen ) x 0.0230559 = 27,240 yen
+The second person is 10,180 yen - ( 2,320,000 yen ( income ) - 1,630,000 yen ) x 0.0035524 = 7,730 yen
+The third person is 6,100 yen - ( 2,320,000 yen ( income ) - 1,630,000 yen ) x 0.0021259 = 4,630 yen
+The total is 39,600 yen .
+This paper uses recycled paper containing waste paper pulp .
+Important notice
+Nagoya city
+Guidance of child care household life support special benefit
+We will provide new benefits to support child - rearing households !
+Eligible person
+Those who meet both ① and ② ( * Excluding those who received benefits for single parent households )
+Parents who are raising children under the age of 18 as of March 31 , 2021 ( under 20 in the case of children with disabilities ) ( * Newborns born before the end of February 2022 are also eligible . )
+Those who are exempt from 2021 residence tax ( per capita rate )
+or
+Those whose income has changed suddenly after January 1 , 2021 , and whose income is equivalent to exemption from resident tax
+Payment amount
+50,000 yen per child
+There may or may not be an application for payment .
+Please be sure to check the payment procedure on the back side .
+If it turns out that the same child has received multiple payments , you will need to refund them .
+* If you would like more information on how to apply or to have the application form sent to you , please call us at the number below .
+Where to submit the application form / Inquiries
+Nagoya City Hall " Special Benefits for Child - rearing Households Living Support ( for non - single - parent households ) " ( call center )
+〒 461 - 8799 Nagoya Higashi Post Office ( 6th floor of Daiichi Fuji Building , 35 - 16 Daikancho , Higashi - ku , Nagoya - shi )
+Telephone 52 - 979 - 2415
+FAX 52 - 933 - 1118
+Reception hours : 9:00 - 17:30
+Open every day from July 1st to September 30th , including weekends and holidays
+Benefit payment procedure
+Recipients of Child Allowance or Special Child Rearing Allowance for April 2021 who are exempt from residence tax
+Benefits can be received without application .
+After sending out the information on the benefits , we plan to transfer the money to the account that provides the child allowance or special child rearing allowance in mid - July ( around the 19th ) .
+If you live in a municipality outside of Nagoya as of January 1 , 2021 , the payment will be made in late July ( around 29th ) .
+Those who are newly receiving child allowances , such as those raising children born between April 2 , 2021 and February 28 , 2022 , who are exempt from inhabitant tax
+Benefits can be received without application .
+After sending out the information on the benefits , we plan to transfer the money to the bank account where the child allowance is paid sequentially after the end of July .
+People other than the above ( e.g. people raising only high school students , people whose income has changed suddenly )
+An application is required to receive benefits .
+( Application deadline : February 28 , 2022 postmark valid )
+Please fill in the necessary information on the application form , etc . , and submit it by mail along with the required documents to the application submission address listed on the front .
+For those who meet the payment requirements for benefits , we will check the application details and transfer it to the designated account .
+If you would like to have the application form sent to you , please contact the contact information listed on the front .
+( You can also download it from the Nagoya City official website )
+Those eligible for benefits
+Application procedure for benefits
+Please submit the application documents , etc . by mail to the person in charge of " Special Benefits for Child - rearing Household Life Support ( for non - single - parent households ) " .
+Transfer to designated account
+After confirming that the application documents submitted meet the payment requirements for the benefits , the funds will be transferred .
+Nagoya city
+Please be careful about " transfer fraud " and " fraudulent personal information " of " child - rearing household life support special benefit " .
+If you receive a suspicious phone call or mail from your home or workplace , etc . , claiming to be from a prefecture , municipality , or Ministry of Health , Labor and Welfare ( an employee of the Ministry of Health , Labor and Welfare ) , contact your municipality , the nearest police station , or 52 police consultation service . Please contact us by phone ( # 9110 ) .
+year month day
+Parent
+Head of Ward
+Information on admission
+Your child will be of age to enter elementary school next April in Japan .
+We will confirm the school you wish to enroll in , so please submit the enclosed school enrollment status survey form by September 1st .
+Children entering elementary school next April must be born between April 2 , 2015 and April 1 , 2016 .
+Please fill in the enclosed survey form for school enrollment status and submit it to the Citizens ' Section counter of the ward office or branch office 's Citizens Section .
+If you wish to enroll your child in a Nagoya municipal elementary school , you will need to go through the enrollment procedures , so be sure to come to the Citizens ' Section of the Ward Office / Branch Citizens ' Section .
+If you are unable to confirm which school you will be attending this time , we will send you a confirmation letter at a later date , so please cooperate with us .
+If you have any other questions , please contact us below .
+Contact information
+Chikusa Ward Office Citizens Division
+Phone 762 - 3111
+( direct 753 - 1898 )
+Triophone ( If you do not speak Japanese , please call from here . )
+Nagoya International Center
+Phone 581 - 6112
+To parents with children
+School guide for foreigners
+~ What kind of place is Japanese school ? ~
+[ About elementary and junior high schools in Japan ]
+Foreign children are accepted free of charge in the same way as Japanese students , and the opportunity to receive the same education as Japanese is guaranteed .
+You can attend the Nagoya municipal elementary school or junior high school that is determined by your place of residence .
+About school attendance period of elementary school , junior high school
+In Japan , children can enter elementary school from the first April after they turn 6 years old and receive 6 years of education .
+After graduating from elementary school , children can enter junior high school and receive three years of education .
+In addition , many students who graduate from junior high school go on to higher education .
+Destinations include high schools , specialized training colleges ( general and advanced courses ) , and technical colleges .
+In addition , some people find employment after graduating from junior high school .
+Parents ' expense burden
+Public elementary and junior high school tuition is free .
+In addition , elementary and junior high school textbooks are distributed free of charge .
+Parents are also responsible for school lunches , school supplies , etc .
+About school attendance assistance
+For financial reasons , we provide a school attendance assistance project to assist with the cost of school lunches , etc . for those who are having trouble sending their children to elementary and junior high schools .
+About health checkup
+It is held at the school I attend every year .
+Children who have completed procedures to enter Nagoya City Elementary School in the following April will have a pre - school health checkup at the elementary school from October to November before entering school .
+The schedule and other information will be sent from the elementary school where you applied for admission at a later date .
+[ Regarding support after admission ]
+In Nagoya City , there is a Japanese Education Consultation Center for those who want to consult about school or study .
+If you would like to know more about the school , or if you have any problems , such as an interpreter , please feel free to contact us .
+In addition , we have prepared an environment where students can study with peace of mind , such as classrooms for learning basic Japanese ( daily conversation , etc . ) and classrooms for learning Japanese necessary for studying subjects .
+If you wish to enroll in one of these classes , please consult with your school 's teacher .
+[ Contact ]
+About school attendance support system
+Board of Education Academic Affairs Division Enrollment Support Section
+Phone number 52 - 972 - 3217
+Admission procedures
+Please inquire at the Citizens ' Section of your local ward office .
+About school life and learning Japanese after admission
+Japanese Language Education Center
+Address 〒 461 - 1 1 - 1 - 4 Izumi , Higashi - ku , Nagoya - shi Nagoya City Education Hall 3F
+Phone number 52 - 961 - 418
+Guidance concerning the new coronavirus vaccination certificate
+This will be issued to those who have been vaccinated against the new coronavirus and who need a document proving that they have been vaccinated in addition to the vaccination certificate due to overseas travel or other circumstances .
+For the time being , this vaccination certificate is limited to overseas travel .
+In Japan , even if you do not have this certificate , you can confirm the fact that you have been vaccinated with a vaccination certificate .
+How to apply
+We only accept applications by mail .
+There is no fee for issuing a certificate , except for the postage required for application and issuance .
+* If you are planning to leave Japan in the near future and it is not possible to issue a certificate by mail , please contact the call center .
+Flow of certificate application
+Mail the required documents to the address below .
+( Submitted required documents will not be returned . )
+Check the contents of the documents at the city hall .
+The certificate will be returned from the city hall .
+In principle , the certificate will be prepared and sent to you within about a week after the application arrives . I 'll enjoy having this .
+Also , it will take several days for the application to be mailed , so please allow plenty of time when applying .
+Address to send the application form
+3 - 1 - 1 Sannomaru , Naka - ku , Nagoya 460 - 8508
+Nagoya City Hall Health and Welfare Bureau New Coronavirus Infectious Disease Control Office Vaccination Certificate Section
+Required documents
+[ Required documents ]
+Application form ( can be downloaded from the Nagoya City official website )
+A copy of your passport ( valid as of the date of travel )
+A copy of the coupon ( be sure to copy the vaccination ticket number)*1
+A copy of the vaccination certificate or vaccination record ( a copy of the vaccination certificate is not required if it is included in the copy of the coupon )
+Self - addressed envelope ( be sure to affix a stamp and include your return address and name )
+Copy of identity verification documents that can confirm the return address ( copy of my number card , driver 's license , various health insurance cards , etc . ) * 2
+If you do not have a coupon due to loss , etc . , or if the sticker on the vaccination ticket number is peeled off , please bring a document that can confirm your My Number ( personal number card , notification card , copy of your resident card with your My Number , etc . ) . Please submit .
+If you do not have any of these , please submit a copy of the document that shows the address registered as a resident at the time of vaccination ( if you have moved , a copy of your resident card that shows your previous address , etc . ) .
+If you enclose a copy of your health insurance card as an identification document , please black out the symbol / number and insurance number .
+[ Documents that may be required ]
+If your passport contains your maiden name , another name , or another name , a copy of your identity verification documents ( copy of your My Number card , driver 's license , family register , resident card , etc . , with your maiden name written together )
+If the request is made by an agent , a power of attorney signed by the principal
+About a self - addressed envelope ( with a self - addressed stamp attached )
+In principle , the return address will be the address of the applicant .
+There is no specification of envelope size .
+Please check the website of Japan Post Co. , Ltd. for details on postage .
+If you do not have enough stamps , you will not be able to send the letter .
+If you wish to have it sent by express , please affix stamps for express delivery and write  express  in red on the envelope .
+Contact information
+Inquiries about vaccination certificates
+Ministry of Health , Labor and Welfare Covid-19 Vaccine Call Center
+Phone number : 120 - 761 - 770 ( toll - free )
+Reception hours : 9:00 a.m. to 9:00 p.m. ( also available on Saturdays , Sundays , and holidays )
+Inquiries about vaccination certificate issuance procedures
+Nagoya Novel Coronavirus Vaccine Call Center
+Phone number : 50 - 3135 - 2252
+Reception hours : 9:00 a.m. to 5:30 p.m. ( weekdays only )
+For details , please see the official website of Nagoya City .
